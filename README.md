@@ -15,13 +15,13 @@ Use this opportunity to show us what you have got and that you have what it take
 # Functional Requirements
 Below are listed the functional requirements that the solution should support. Wherever in doubt, make reasonable assumptions and move forward but please do document those assumptions as well so that we know why you made them.
 
-Let us imagine we are talking about a popular restaurant such as Paradise its own restaurant managemenent system. If we expand the various actors and sub systems involved, we could break it down as below
+Let us imagine we are talking about a popular restaurant such as Paradise its own restaurant management system. If we expand the various actors and sub systems involved, we could break it down as below
 - A food menu which lists various sections (starters / main course / desserts) having items inside each.
 - A price chart associated with every item on the menu.
 - The customers who visit the restaurant.
 - Hosts and hostesses who allot customers tables or queue them up if all tables are in use.
 - Bus boys who serve water, clean tables, lay out fresh cloth, etc. 
-- Managers who take initial orders, recive complaints, prepare and hand out the bill, etc.
+- Managers who take initial orders, receive complaints, prepare and hand out the bills, etc.
 - Servers who serve the food on the table.
 - Executive chef who receives orders and expedites food preparation
 - Line cooks who prepare the food.
@@ -38,7 +38,7 @@ The solution finally needs to provide an entry point (public static void main) w
 - Customer walks in
 - Host allots a table for him / her
 - Bus boy serves water
-- Manager M shows the menu to the customer
+- Manager shows the menu to the customer
 - Customer orders food
 - Manager places order
 - Executive chef gets order and instructs other line cooks
@@ -49,12 +49,12 @@ The solution finally needs to provide an entry point (public static void main) w
 - Bus boy cleans up table
 
 # Thinking beyond
-You have full freedom to think beyond the basic outline above. For example, we never talked about food takeways, valet parking, etc. but nothing stops you from designing these too.
+You have full freedom to think beyond the basic outline above. For example, we never talked about food takeways, valet parking, etc. but nothing stops you from designing these too. Let your imagination and creativity run loose here.
 
 # Technical requirements
-- Java as the programming language to develop the solution
+- Java is the programming language to be used to develop the solution
 - Maven should be used as the build system for compiling and producing the final binary
-- The solution should produce a Jar file which we can run from the command line by passing necessary arguments
+- The solution should produce a JAR file which we can run from the command line by passing necessary arguments
 - Classpath dependencies that we would need to meet in order to be able to run the solution
 - Wherever possible, decouple data from the system. e.g. the menu items could be read from a file rather than hard coding within the solution
  
