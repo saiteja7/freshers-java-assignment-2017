@@ -15,7 +15,7 @@ Use this opportunity to show us what you have got and that you have what it take
 # Functional Requirements
 Below are listed the functional requirements that the solution should support. Wherever in doubt, make reasonable assumptions and move forward but please do document those assumptions as well so that we know why you made them.
 
-Let us imagine we are talking about a popular restaurant such as Paradise its own restaurant management system. If we expand the various actors and sub systems involved, we could break it down as below
+Let us imagine we are talking about a popular restaurant such as Paradise with its own restaurant management system. If we expand the various actors and sub systems involved, we could break it down as below
 - A food menu which lists various sections (starters / main course / desserts) having items inside each.
 - A price chart associated with every item on the menu.
 - The customers who visit the restaurant.
