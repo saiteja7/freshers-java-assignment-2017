@@ -1,1 +1,18 @@
 
+Project concept:
+       The project is about Restaurant system. First customer arrives the restaurant and asks watchmen to park the car, Watchmen asks vallet parking boy to park the car and guides the customer to restaurant. Manager receives customer allots him the table and shows him menu. Customer orders from the menu and will have his food. Manager gets the bill and ask customer for rating. Customer  gives the feed back and pays the bill and leaves the restaurant.
+
+Project Architecture:
+    The mian class  is Initializer.class ,in Initializer.java all classes and methods  will be called.First a fall I have written all the menu items in json format and read that items in Restaurantconfiguration.class using gson. I have divided sepearte classes for menu items and generated beans for that.All the items ordered will go to the shopping cart class and bill will be generated in customerbilling.class.Called all the methods for Take away process as well as restaurant.
+
+How to Run it?:
+    I have built the project in using maven and generated a jar file for it.You should go to the project directory using command prompt and open target folder.In the target folder you will se the following files
+1.classes
+2.generated-sources
+3.lib
+4.maven-archiver
+5.ResApp-1.0-SNAPSHOT.jar
+6.surefire
+7.test-classes
+Type “java -jar ResApp-1.0-SNAPSHOT.jar” in the command prompt. Now the project will run.
+Give the required inputs in the projects for selecting menu.
