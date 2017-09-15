@@ -1,0 +1,50 @@
+{
+    "menu":["Starters","Primarydish","Curries","Deserts","Drink","Rotis"],
+    "starters":[{"item":"Manchuria","itemprice":200,"itemcurrency":"rupees"},
+                {"item":"Babycorn","itemprice":200,"itemcurrency":"rupees"},
+                {"item":"Fries","itemprice":200,"itemcurrency":"rupees"},
+                {"item":"Veg spring roll","itemprice":200,"itemcurrency":"rupees"},
+                {"item":"Onion pakora","itemprice":200,"itemcurrency":"rupees"}],
+    "primarydish":[{"item":"Veg biryani","itemprice":250,"itemcurrency":"rupees"},
+                  {"item":"Chicken Biryani","itemprice":290,"itemcurrency":"rupees"},
+                  {"item":"Mutton Biryani","itemprice":300,"itemcurrency":"rupees"},
+                {"item":"Panner Biryani","itemprice":250,"itemcurrency":"rupees"},
+                 {"item":"veg manchuria","itemprice":200,"itemcurrency":"rupees"},
+               {"item":"Chicken manchuria","itemprice":220,"itemcurrency":"rupees"},
+               {"item":"Veg noodles ","itemprice":200,"itemcurrency":"rupees"},
+               {"item":"Chicken noodles ","itemprice":220,"itemcurrency":"rupees"},
+               {"item":"veg fried rice  ","itemprice":200,"itemcurrency":"rupees"},
+               {"item":"Chicken fried rice","itemprice":220,"itemcurrency":"rupees"}],
+            
+    "curries":  [  {"item":"Aloo Palak ","itemprice":200,"itemcurrency":"rupees"},
+                     {"item":"Channa Masala ","itemprice":200,"itemcurrency":"rupees"},
+                     {"item":"Dal Makhani  ","itemprice":200,"itemcurrency":"rupees"},
+                     {"item":"Aloo Mattar Mushroom","itemprice":200,"itemcurrency":"rupees"},
+                     {"item":"Paneer Masala","itemprice":200,"itemcurrency":"rupees"}],
+
+     "rotis":   [{"item":"Tandoori Roti","itemprice":49,"itemcurrency":"rupees"},
+                {"item":"Butter Roti ","itemprice":59,"itemcurrency":"rupees"},
+                {"item":"Rumali Roti ","itemprice":55,"itemcurrency":"rupees"},
+                {"item":"Plain Naan ","itemprice":60,"itemcurrency":"rupees"},
+                {"item":"Butter Naan","itemprice":70,"itemcurrency":"rupees"},
+                {"item":"Garlic Naan ","itemprice":70,"itemcurrency":"rupees"}], 
+  
+   
+    "deserts":[ {"item":"Double ka Meetha ","itemprice":100,"itemcurrency":"rupees"},
+               {"item":"Gulab Jamun","itemprice":100,"itemcurrency":"rupees"},
+               {"item":"Butter scotch Ice Cream ","itemprice":100,"itemcurrency":"rupees"},
+               {"item":"Strawberry Ice Cream","itemprice":100,"itemcurrency":"rupees"},
+               {"item":"Vanilla Ice Cream","itemprice":100,"itemcurrency":"rupees"},
+               {"item":"Chochlate Ice Cream","itemprice":100,"itemcurrency":"rupees"}],
+ 
+    "drink":[ {"item":"Mazza","itemprice":50,"itemcurrency":"rupees"},
+              {"item":"Thumbs up","itemprice":50,"itemcurrency":"rupees"},
+              {"item":"sprite","itemprice":50,"itemcurrency":"rupees"},
+              {"item":"sprite","itemprice":50,"itemcurrency":"rupees"}]
+ 
+
+    
+
+    
+    
+}
